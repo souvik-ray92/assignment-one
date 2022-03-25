@@ -42,3 +42,8 @@ body{
     border-radius: 5px;
     color: white;
 }
+.header-text{
+    border-left: solid 4px;
+    border-color: #FF5959;
+    padding-left: 22px;
+}
