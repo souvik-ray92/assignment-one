@@ -4,6 +4,8 @@ body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Yeseva One', cursive;
 }
+
+/* first section start */
 .first-section{    
     display: flex;
     padding-top: 75px;
@@ -47,3 +49,84 @@ body{
     border-color: #FF5959;
     padding-left: 22px;
 }
+/* first section end */
+
+/* second section start */
+
+.second-section{
+    margin-top: 60px;
+}
+.second-section h1{
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 48px;
+    font-weight: 700;
+}
+.three-part{
+    display: flex;
+}
+.box{
+    width: 360px;
+    padding: 25px 25px 25px 32px;
+    border-radius: 25px;
+    margin: 0 12px;
+}
+.box img {
+    width: 31%;
+}
+.box h5{
+    font-family: 'Poppins';
+    font-size: 24px;
+    font-weight: 600;
+    margin: 12px 0;
+}
+.box p{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+}
+.mission{
+    background-color: #4F9DA61A;
+    margin-left: 110px;
+}
+.vission{
+    background-color: #FFEEEE;
+}
+.goals{
+    background-color: #FFF4D6;
+}
+
+/* second section end */
+
+/* third section start */
+
+.third-section{
+    margin-top: 60px;
+    display: flex;
+}
+.image-box{
+    width: 30%;
+    margin-left: 110px;
+}
+.image-box img{
+    width: 100%;
+}
+.text-box{
+    width: 55%;
+    margin-left: 72px;
+    padding-right: 100px;
+}
+.text-box h2{
+    font-family: 'Poppins';
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+.text-box p{
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 36px;
+}
+/* third section end */
